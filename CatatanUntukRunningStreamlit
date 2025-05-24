@@ -1,0 +1,3 @@
+Mohon dipastikan kembali bahwa environment virtual (venv) yang digunakan telah dikonfigurasi dengan benar sesuai dengan kebutuhan proyek. Selain itu, pastikan juga file model yang telah disimpan dari Python menggunakan format .h5 sudah ditempatkan di dalam folder yang sama dengan aplikasi Streamlit. Hal ini penting agar proses running aplikasi dapat berjalan dengan lancar. Terima kasih!
+
+Jika sudah sesuai, maka bisa jalankan dengan streamlit run app.py
